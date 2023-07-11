@@ -11,7 +11,7 @@ if (number1 > number2)
 {
     Console.Write(number1);
 }
-if (number2 > number1)
+else if (number2 > number1)
 {
     Console.Write(number2);
 }
